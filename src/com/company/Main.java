@@ -1,8 +1,9 @@
 package com.company;
+import singleton.Singleton;
 
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        Singleton instance = Singleton.getInstance();
     }
 }
