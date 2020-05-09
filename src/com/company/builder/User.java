@@ -15,7 +15,7 @@ public class User {
     private final String gender;
     private final int age;
 
-    private User(UserBuilder builder) {
+    public User(UserBuilder builder) {
         this.firstName = builder.firstName;
         this.lastName = builder.lastName;
         this.address = builder.address;
