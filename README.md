@@ -22,5 +22,7 @@ Package test contains test for every</p>
 <h2 id="prototype">Prototype</h2>
 <p>The Prototype pattern is generally <strong>used when we have an instance of the class (prototype) and we’d like to create new objects by just copying the prototype</strong>.</p>
 <h2 id="factory">Factory</h2>
+<p>**Factory Method Pattern just define an interface or abstract class for creating an object but let the subclasses decide which class to instantiate. Subclasses are responsible to create the instance of the class.</p>
 <h2 id="abstractfactory">AbstractFactory</h2>
+<p>The abstract factory pattern provides a way to encapsulate a group of individual factories that have a common theme without specifying their concrete classes.</p>
 
