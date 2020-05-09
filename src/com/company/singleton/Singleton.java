@@ -1,4 +1,4 @@
-package singleton;
+package com.company.singleton;
 
 public class Singleton {
     private static volatile Singleton instance = null;

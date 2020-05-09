@@ -1,5 +1,5 @@
 package com.company;
-import singleton.Singleton;
+import com.company.singleton.Singleton;
 
 public class Main {
 
